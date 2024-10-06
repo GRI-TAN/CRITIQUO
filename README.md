@@ -88,11 +88,3 @@ Ensure you have the following starting software installed:
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- Rishabh Sharma (21BCE0943)
-- Chaitanya Raju (21BCE0636)
-- M.V. Krishna Vamsi (21BEC0072)
-- Uthkarsh Sharma (21BPS1170)
-- Chaitanya Kadam (21BIT0369)
