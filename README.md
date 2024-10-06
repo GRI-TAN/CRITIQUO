@@ -1,6 +1,6 @@
 # Critiquo - Game Review Platform
 
-Critiquo is a Product Review Platform (P39) developed by Team 354, focusing on game reviews. It is built using the MERN (MongoDB, Express.js, React, Node.js) full stack.
+Critiquo is a Product Review Platform focusing on game reviews. It is built using the MERN (MongoDB, Express.js, React, Node.js) full stack.
 
 ## Deployment
 
